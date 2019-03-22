@@ -50,5 +50,5 @@ meteor
 [CS-5610 Web Development Spring 2019](http://johnguerra.co/classes/webDevelopment_spring_2019/)
 
 ## Link to Video Demonstration
-[Demonstration on YouTube](https://youtu.be/iiKXtHgBpnQ)  
+[Demonstration on YouTube](https://www.youtube.com/watch?v=EjqQ19Qb8vQ&feature=youtu.be)  
 [Google Slides Presentation](https://docs.google.com/presentation/d/1jaNBV_fbp1MKP_RDCEQWcnIHKH2poeKRQdOKe0MWu_A/edit?usp=sharing)
