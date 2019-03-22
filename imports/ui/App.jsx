@@ -37,7 +37,7 @@ const HomeComponent = () => {
           <div className="container text-center my-auto">
             <h1 className="mb-1">Potluck Potluck</h1>
             <h3 className="mb-5">
-              <em>it\'s a potluck of potlucks!</em>
+              <em>a whole potluck of potlucks!</em>
             </h3>
             <Link
               to="/about"
@@ -46,7 +46,6 @@ const HomeComponent = () => {
               Find Out More
             </Link>
           </div>
-          <div className="overlay" />
         </header>
       )}
       <p className="text-muted small mb-0">
